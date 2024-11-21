@@ -95,8 +95,8 @@
             <ol>
                 <li>
                     <strong>Clona el Repositorio</strong>
-                    <pre><code>git clone https://github.com/tuusuario/lienzos-vivos.git
-cd lienzos-vivos
+                    <pre><code>git clone https://github.com/Lealmf23/reactTPfinal.git
+cd reactTPfinal
 </code></pre>
                 </li>
                 <li>
