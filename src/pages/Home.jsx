@@ -1,4 +1,6 @@
-import Productos from "./pages/Productos.jsx";
+import Productos from "../components/Productos";
+
+
 
 
 
