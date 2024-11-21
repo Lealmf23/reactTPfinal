@@ -5,8 +5,6 @@ import { Link } from 'react-router-dom'
 import { AuthContext } from '../context/AuthContext'
 import { useContext } from 'react'
 
-
-
 const NavBar = () => {
     const { login, handleLogout } = useContext(AuthContext)
     return (
@@ -75,5 +73,5 @@ const NavBar = () => {
         </>
     )
 }
- 
-export default NavBar;
+
+export default NavBar
