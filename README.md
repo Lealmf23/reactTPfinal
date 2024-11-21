@@ -1,10 +1,6 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Lienzos Vivos - Documentación del Proyecto</title>
-</head>
+<html lang="es">
+
 <body>
     <header>
         <h1>Lienzos Vivos - Documentación del Proyecto</h1>
