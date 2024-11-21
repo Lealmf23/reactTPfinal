@@ -7,6 +7,7 @@
     </header>
     <main>
         <section>
+            <h2>URL Vercel</h2> <a href="https://react-tpfinal-n5hrp62qn-leon-marins-projects.vercel.app/" target:"_black">https://react-tpfinal-n5hrp62qn-leon-marins-projects.vercel.app/</a>
             <h2>Descripción</h2>
             <p>
                 <strong>Lienzos Vivos</strong> es una aplicación web diseñada para la venta de cuadros personalizados. Ofrece una experiencia fluida para que los usuarios puedan explorar una galería de productos, ver detalles específicos de cada cuadro y contactarse con el administrador. Además, cuenta con un dashboard exclusivo para los administradores, donde pueden gestionar productos y controlar la base de datos conectada con Firebase.
